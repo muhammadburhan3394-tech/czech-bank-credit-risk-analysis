@@ -12,9 +12,6 @@ This project demonstrates an end-to-end data analytics pipeline utilizing the PK
 3. **Data Visualization (Tableau):** Designed an interactive executive summary dashboard to present findings to business stakeholders.
 
 ## 💡 Key Insights
-![Dashboard Preview](insert_your_screenshot_filename_here.png)
-*(Note: Replace the text in the bracket above with your actual image filename)*
-
 Based on the statistical and visual analysis:
 * There is a **moderate positive correlation (0.59)** between the macroeconomic unemployment rate and the deterioration of the bank's credit quality.
 * The NPL ratio peaked at 30.97% in December 1993, which directly coincided with the unemployment rate rising to 6.8%.
